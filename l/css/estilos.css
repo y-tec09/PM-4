@@ -5,7 +5,7 @@
 	font-family: sans-serif;
 }
 body {
-  background-image: url('imgs/fondo.jpg');
+  /*background-image: url('imgs/PORT_00.jpg');*/
   margin: 0;
   min-height: 100vh;
   background-repeat: no-repeat;
@@ -112,24 +112,24 @@ body {
 }
 /*Fin de barra de progreso*/
 
-.footer {
-  width: 100%;
-  min-height: 40px;
-  margin-top: 20px;
-  background-color: #e5b35b;
-}
-
 .header {
   width: 100%;
   background-color: #e5b35b;
 
-  background-image: url('imgs/anuncio-princ.jpg');
+  background-image: url('imgs/PORT_00.jpg');
   margin: 0;
   min-height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+}
+
+.footer {
+  width: 100%;
+  min-height: 40px;
+  margin-top: 20px;
+  background-color: #e5b35b;
 }
 
 /*Menú web responsivo*/
@@ -360,7 +360,7 @@ nav ul li a:hover {
   width: 100%;
   height: auto;
 
-  background-image: url('imgs/horario.jpg');
+  background-image: url('imgs/HOR_00.jpg');
   margin: 0;
   min-height: 80vh;
   background-repeat: no-repeat;
